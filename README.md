@@ -29,6 +29,8 @@ Infra          Docker · CI/CD · REST & GraphQL · Intel SGX · Intel TDX
 
 **RAG over encrypted data** — Implemented a full RAG architecture in Rust backed by an encrypted vector database. Query, retrieve, generate — without ever exposing the index.
 
+**Technical demonstrators & client-facing interfaces** — Designed, built and deployed end-to-end demonstrators and interfaces bridging cryptography research and real-world usage — for sales teams, developers and end customers. Turned complex technical innovations into tools people could actually understand and use.
+
 **Native crypto libraries** — Implemented encryption algorithms in Rust, exposed as native libraries with Python and JS bindings.
 
 ---
