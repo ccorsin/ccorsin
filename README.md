@@ -39,6 +39,7 @@ Infra          Docker · CI/CD · REST & GraphQL · Intel SGX · Intel TDX
 
 - **Cosmian** — Senior Developer, 2022–2025 · Rust, Confidential Computing, AI & cryptography
 - **Ministère des Armées — Fabrique Numérique** — Fullstack Developer, 2020–2022 · Vue.js, Node.js, React Native
+- **Applidium / Fabernovel Technologies** — Backend Developer (intern), 2018–2019 · Ruby on Rails, PostgreSQL, APIs for native mobile apps
 - **La Louve** — Volunteer developer, cooperative supermarket · Vue.js, Odoo
 - **École 42** — Systems and AI projects, including building an MLP neural network from scratch
 - **Chimie ParisTech** — Master's in chemical engineering
